@@ -1,6 +1,6 @@
 # Hotel Room Reservation System UI
 
-It's presentational prepared as a proof of skills in React.js.
+This is an application presenting my programming skills in the React.js library.
 
 ## Development
 To use this project you need Node.js (v.20+) and npm.
