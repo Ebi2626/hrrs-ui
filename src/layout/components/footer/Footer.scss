@@ -1,0 +1,21 @@
+.footer {
+    &__section {
+        &Title {
+            position: relative;
+            &::before {
+                content: '';
+                top: 0.6em;
+                left: -80px;
+                position: absolute;
+                display: none;
+                width: 72px;
+                height: 1px;
+                background-color: white;
+                @media (screen(sm)) {
+                    display: block;
+                }
+            }
+
+        }
+    }
+}
